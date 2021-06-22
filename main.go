@@ -14,7 +14,6 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-// sg
 type news struct {
 	title   string
 	summary string
